@@ -1,0 +1,9 @@
+sass -v
+
+$ sass style.scss:style.css --style nested
+
+$ sass style.scss:style1.css --style expanded
+
+$ sass style.scss:style2.css --style compact
+
+$ sass style.scss:style3.css --style compressed
